@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.kaggle.com/dngphcsang" alt="Kaggle" target="_blank" >
-    <img src="rsz_letter-k.png"/>
+    <img src="https://img.icons8.com/stickers/48/4a90e2/k.png"/>
   </a>
 </p>
 
