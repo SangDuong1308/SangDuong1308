@@ -22,7 +22,6 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SangDuong1308's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SangDuong1308&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SangDuong1308&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SangDuong1308" height="192px"/>
