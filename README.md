@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phuoc Sang</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  
+About me
 - :school: I am a `Student` at [Ho Chi Minh University of Science](https://www.hcmus.edu.vn/) [HCMUS].
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I'm currently focus on competing on `Kaggle.`
