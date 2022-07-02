@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Phuoc Sang</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
-## About me
+/*## About me
 - :school: I am a `Student` at [Ho Chi Minh University of Science](https://www.hcmus.edu.vn/) [HCMUS].
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I'm currently focus on competing on `Kaggle.`
 - :nerd_face: Always `learning new things`
-<br/>
+<br/>*/
 
 ##  Connect with me
 <p align="center">
