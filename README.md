@@ -1,19 +1,5 @@
-<h1 align="center">Hi 👋, I'm Phuoc Sang</h1>
+<h1 align="center">Hi 👋, I'm Sang</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-
-/*## About me
-- :school: I am a `Student` at [Ho Chi Minh University of Science](https://www.hcmus.edu.vn/) [HCMUS].
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I'm currently focus on competing on `Kaggle.`
-- :nerd_face: Always `learning new things`
-<br/>*/
-
-##  Connect with me
-<p align="center">
-	<a href="mailto:duongphuocsang1308@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/SangDuong1308"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.facebook.com/phuocsang.duong.731/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
 
 ## 📊 Github Stats
 
